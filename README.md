@@ -12,12 +12,14 @@
 
 <h3 align="center"><FILL IN: headline, e.g. B.Sc. Computer Science @ University | Full-Stack Developer></h3>
 
-Welcome to my GitHub profile! <FILL IN: 1-2 sentences: who you are, what you specialize in, and what this profile showcases.>
+### B.Sc. Electrical Engineering student @Tel Aviv University | Chip Design @SAMSUNG
+
+Welcome to my GitHub profile!  This space serves as my portfolio for building, optimizing, and sharing advanced RTL designs, verification environments, and physical implementation flows.
 
 ## 👨‍💼 About Me
 
-- 🎓 **Education:** <FILL IN: degree></fill> from .
-- 💡 **Focus Areas: Chip Design, Hardware Architecture, RTL Design (Verilog / SystemVerilog), Design Verification (UVM/SystemVerilog), and Physical Design (RTL-to-GDSII**
+- 🎓 **Education:** B.Sc. Electrical Engineering from Tel Aviv University
+- 💡 **Focus Areas: Chip Design, Hardware Architecture, RTL Design (Verilog / SystemVerilog), Design Verification (UVM/SystemVerilog), and Physical Design (RTL-to-GDSII)**
 - 🚀 **Mission:**  build stuff!
 
 ## 🛠️ Tech Stack
