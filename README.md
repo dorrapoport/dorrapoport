@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dor Rapoport</h1>
+<h1 align="center">Hi 👋, I'm Dor </h1>
 
 <p align="center">
   <a href="<FILL IN: LinkedIn URL>">
@@ -16,14 +16,44 @@ Welcome to my GitHub profile! <FILL IN: 1-2 sentences: who you are, what you spe
 
 ## 👨‍💼 About Me
 
-- 🎓 **Education:** <FILL IN: degree> from **<FILL IN: institution>**.
-- 💡 **Focus Areas:** <FILL IN: main areas, e.g. Web Development, AI, Backend Systems>.
-- 🚀 **Mission:** <FILL IN: what drives you and the kind of problems you love solving>.
+- 🎓 **Education:** <FILL IN: degree></fill> from .
+- 💡 **Focus Areas: Chip Design, Hardware Architecture, RTL Design (Verilog / SystemVerilog), Design Verification (UVM/SystemVerilog), and Physical Design (RTL-to-GDSII**
+- 🚀 **Mission:**  build stuff!
 
 ## 🛠️ Tech Stack
 
 <!-- Keep the icons you use, delete the rest. More icons: https://devicon.dev -->
+
+**Hardware Design & Verification**
+
 <p align="left">
+  <img src="https://img.shields.io/badge/SystemVerilog-1E3A5F?style=for-the-badge" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/Verilog-2E5C8A?style=for-the-badge" alt="Verilog"/>
+  <img src="https://img.shields.io/badge/UVM-4B7BB5?style=for-the-badge" alt="UVM"/>
+  <img src="https://img.shields.io/badge/Cadence%20Xcelium-B31B1B?style=for-the-badge" alt="Cadence Xcelium"/>
+  <img src="https://img.shields.io/badge/Cadence%20Genus-B31B1B?style=for-the-badge" alt="Cadence Genus"/>
+  <img src="https://img.shields.io/badge/Cadence%20Innovus-B31B1B?style=for-the-badge" alt="Cadence Innovus"/>
+  <img src="https://img.shields.io/badge/Cadence%20Virtuoso-B31B1B?style=for-the-badge" alt="Cadence Virtuoso"/>
+  <img src="https://img.shields.io/badge/Cadence%20Indago-B31B1B?style=for-the-badge" alt="Cadence Indago"/>
+  <img src="https://img.shields.io/badge/Cadence%20SimVision-B31B1B?style=for-the-badge" alt="Cadence SimVision"/>
+  <img src="https://img.shields.io/badge/Synopsys%20VCS-5A2D82?style=for-the-badge" alt="Synopsys VCS"/>
+  <img src="https://img.shields.io/badge/Synopsys%20Verdi-5A2D82?style=for-the-badge" alt="Synopsys Verdi"/>
+  <img src="https://img.shields.io/badge/GTKWave-3C7A3C?style=for-the-badge" alt="GTKWave"/>
+  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge" alt="Xilinx Vivado"/>
+  <img src="https://img.shields.io/badge/Tcl-2C6E49?style=for-the-badge" alt="Tcl"/>
+  <img src="https://img.shields.io/badge/Perforce-404FA3?style=for-the-badge" alt="Perforce"/>
+  <img src="https://img.shields.io/badge/RTL--to--GDSII-555555?style=for-the-badge" alt="RTL-to-GDSII"/>
+</p>
+
+**Software & Tools**
+
+<p align="left">
+  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://en.cppreference.com/w/cpp" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
@@ -48,18 +78,22 @@ Welcome to my GitHub profile! <FILL IN: 1-2 sentences: who you are, what you spe
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash / Terminal" width="40" height="40"/>
+  </a>
+  <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim / GVim" width="40" height="40"/>
+  </a>
+  <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+  </a>
 </p>
 
 ## 📂 Featured Projects
 
 * **[Personal Portfolio Website](https://github.com/dorrapoport/dorrapoport.github.io):** My portfolio site, built with **React**, **TypeScript**, **Three.js** and **GSAP** — an interactive 3D hero scene, animated sections, and automatic deployment to GitHub Pages.
-
-* **[<FILL IN: project name>](<FILL IN: repo URL>):** <FILL IN: what it does and your part in it.>
-    * **Highlight:** <FILL IN: the most impressive result, ideally with a number, e.g. "cut load time by 60%".>
-
-* **[<FILL IN: project name>](<FILL IN: repo URL>):** <FILL IN: what it does and your part in it.>
-    * **Highlight:** <FILL IN: key result or technical challenge you solved.>
+* * <FILL IN: key result or technical challenge you solved.></fill>
 
 ## 🤝 Let's Connect
 
-I am actively looking for opportunities in **<FILL IN: fields you're looking for>**. I'm always happy to talk about <FILL IN: topics you love> — let's connect on [LinkedIn](<FILL IN: LinkedIn URL>)!
+I'm always happy to talk about ,let's connect on [LinkedIn](https://www.linkedin.com/in/dor-rapoport/)!
