@@ -12,7 +12,7 @@
 
 <h3 align="center"><FILL IN: headline, e.g. B.Sc. Computer Science @ University | Full-Stack Developer></h3>
 
-### B.Sc. Electrical Engineering student @Tel Aviv University | Chip Design @SAMSUNG
+### B.Sc. Electrical Engineering student @Tel Aviv University | Chip Design 
 
 Welcome to my GitHub profile!  This space serves as my portfolio for building, optimizing, and sharing advanced RTL designs, verification environments, and physical implementation flows.
 
