@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dor </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dor-rapoport/>
+  <a href="https://www.linkedin.com/in/dor-rapoport/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Profile"/>
   </a>
   <a href="https://dorrapoport.github.io">
