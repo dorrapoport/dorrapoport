@@ -31,15 +31,9 @@ Welcome to my GitHub profile! <FILL IN: 1-2 sentences: who you are, what you spe
   <img src="https://img.shields.io/badge/Verilog-2E5C8A?style=for-the-badge" alt="Verilog"/>
   <img src="https://img.shields.io/badge/UVM-4B7BB5?style=for-the-badge" alt="UVM"/>
   <img src="https://img.shields.io/badge/Cadence%20Xcelium-B31B1B?style=for-the-badge" alt="Cadence Xcelium"/>
-  <img src="https://img.shields.io/badge/Cadence%20Genus-B31B1B?style=for-the-badge" alt="Cadence Genus"/>
-  <img src="https://img.shields.io/badge/Cadence%20Innovus-B31B1B?style=for-the-badge" alt="Cadence Innovus"/>
   <img src="https://img.shields.io/badge/Cadence%20Virtuoso-B31B1B?style=for-the-badge" alt="Cadence Virtuoso"/>
   <img src="https://img.shields.io/badge/Cadence%20Indago-B31B1B?style=for-the-badge" alt="Cadence Indago"/>
   <img src="https://img.shields.io/badge/Cadence%20SimVision-B31B1B?style=for-the-badge" alt="Cadence SimVision"/>
-  <img src="https://img.shields.io/badge/Synopsys%20VCS-5A2D82?style=for-the-badge" alt="Synopsys VCS"/>
-  <img src="https://img.shields.io/badge/Synopsys%20Verdi-5A2D82?style=for-the-badge" alt="Synopsys Verdi"/>
-  <img src="https://img.shields.io/badge/GTKWave-3C7A3C?style=for-the-badge" alt="GTKWave"/>
-  <img src="https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge" alt="Xilinx Vivado"/>
   <img src="https://img.shields.io/badge/Tcl-2C6E49?style=for-the-badge" alt="Tcl"/>
   <img src="https://img.shields.io/badge/Perforce-404FA3?style=for-the-badge" alt="Perforce"/>
   <img src="https://img.shields.io/badge/RTL--to--GDSII-555555?style=for-the-badge" alt="RTL-to-GDSII"/>
@@ -77,9 +71,6 @@ Welcome to my GitHub profile! <FILL IN: 1-2 sentences: who you are, what you spe
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash / Terminal" width="40" height="40"/>
   </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim / GVim" width="40" height="40"/>
